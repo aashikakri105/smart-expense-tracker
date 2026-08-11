@@ -50,3 +50,39 @@ Smart Expense Tracker/
 │
 └── templates/
     └── index.html
+
+## 💡 Main Functionalities
+
+### CRUD Operations
+
+- **Create** – Add a new expense
+- **Read** – View expense history
+- **Update** – Edit expense details
+- **Delete** – Remove an expense
+
+### Expense Management
+
+- Search expenses by name
+- Filter expenses by category
+- Track expenses by date
+- Calculate total spending
+- Track monthly spending
+- Monitor monthly budget and remaining budget
+- Export expense records to CSV
+
+### Data Visualization
+
+- Pie chart for category-wise expense distribution
+- Bar chart for category-wise spending analysis
+
+## 🚀 Future Improvements
+
+- User authentication and login
+- Multiple user accounts
+- Recurring expenses
+- Advanced monthly and yearly reports
+- Email notifications and budget alerts
+- Cloud database integration
+- Cloud deployment
+- Mobile-friendly UI improvements
+- AI-based spending insights and recommendations
